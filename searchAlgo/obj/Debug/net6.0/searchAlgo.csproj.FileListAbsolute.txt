@@ -1,0 +1,15 @@
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\bin\Debug\net6.0\searchAlgo.exe
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\bin\Debug\net6.0\searchAlgo.deps.json
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\bin\Debug\net6.0\searchAlgo.runtimeconfig.json
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\bin\Debug\net6.0\searchAlgo.dll
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\bin\Debug\net6.0\ref\searchAlgo.dll
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\bin\Debug\net6.0\searchAlgo.pdb
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.csproj.AssemblyReference.cache
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.AssemblyInfoInputs.cache
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.AssemblyInfo.cs
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.dll
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\ref\searchAlgo.dll
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.pdb
+C:\Users\Aditi\Desktop\dotnet\searchAlgo\obj\Debug\net6.0\searchAlgo.genruntimeconfig.cache
