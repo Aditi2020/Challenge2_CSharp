@@ -1,0 +1,15 @@
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\bin\Debug\net6.0\DeleteKthNode.exe
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\bin\Debug\net6.0\DeleteKthNode.deps.json
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\bin\Debug\net6.0\DeleteKthNode.runtimeconfig.json
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\bin\Debug\net6.0\DeleteKthNode.dll
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\bin\Debug\net6.0\ref\DeleteKthNode.dll
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\bin\Debug\net6.0\DeleteKthNode.pdb
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.csproj.AssemblyReference.cache
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.AssemblyInfoInputs.cache
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.AssemblyInfo.cs
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.csproj.CoreCompileInputs.cache
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.dll
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\ref\DeleteKthNode.dll
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.pdb
+C:\Users\Aditi\Desktop\dotnet\DeleteKthNode\obj\Debug\net6.0\DeleteKthNode.genruntimeconfig.cache
