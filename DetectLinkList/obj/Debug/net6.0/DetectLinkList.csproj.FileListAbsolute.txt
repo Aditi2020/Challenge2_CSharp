@@ -1,0 +1,15 @@
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\bin\Debug\net6.0\DetectLinkList.exe
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\bin\Debug\net6.0\DetectLinkList.deps.json
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\bin\Debug\net6.0\DetectLinkList.runtimeconfig.json
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\bin\Debug\net6.0\DetectLinkList.dll
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\bin\Debug\net6.0\ref\DetectLinkList.dll
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\bin\Debug\net6.0\DetectLinkList.pdb
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.csproj.AssemblyReference.cache
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.AssemblyInfoInputs.cache
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.AssemblyInfo.cs
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.csproj.CoreCompileInputs.cache
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.dll
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\ref\DetectLinkList.dll
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.pdb
+C:\Users\Aditi\Desktop\dotnet\DetectLinkList\obj\Debug\net6.0\DetectLinkList.genruntimeconfig.cache
